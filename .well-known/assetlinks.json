@@ -1,1 +1,10 @@
 
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.asimkareemmohammad.twa",
+        "sha256_cert_fingerprints": ["5D:30:F2:87:1C:C0:E9:47:05:6A:E6:DD:19:E2:06:49:E9:C3:91:80:39:06:4A:A9:82:B9:06:D9:58:18:2D:32"]
+      }
+    }]
+
